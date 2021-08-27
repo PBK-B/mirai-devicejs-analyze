@@ -4,9 +4,9 @@
 
 **将 device.json 中的 Byte 数组转为 string**
 
-在线使用：http://mirai-devicejs-analyze.zmkj6.top/
+在线使用：<https://pbk-b.github.io/mirai-devicejs-analyze/>
 
-该工具参考 [ryoii/mirai-devicejs-generator](/ryoii/mirai-devicejs-generator) 设计，mirai-devicejs-generator 可以直接生成 `device.json` 文件。
+该工具参考 [ryoii/mirai-devicejs-generator](https://github.com/ryoii/mirai-devicejs-generator) 设计，mirai-devicejs-generator 可以直接生成 `device.json` 文件。
 
 ### 说明
 
